@@ -15,7 +15,8 @@ Welcome to my GitHub profile.
 
 <td width="40%" align="right">
 
-<img src="https://gateway.icloud.com/contacts/17124715792/ck/card/2bd3c6ee0b0c22114803c9eda8728220">
+<img src="<img width="320" height="320" alt="2bd3c6ee0b0c22114803c9eda8728220" src="https://github.com/user-attachments/assets/2075359d-3cd2-4936-8dcb-22cb1259fef7" />
+">
 
 </td>
 </tr>
