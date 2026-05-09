@@ -81,7 +81,3 @@ I'm still learning and exploring, so this profile is where I track my progress, 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rishaaniscool123321&label=Profile%20Views&color=00ff88&style=flat-square" />
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rishaaniscool123321&label=Profile%20Views&color=00ff88&style=flat-square" />
-</p>
