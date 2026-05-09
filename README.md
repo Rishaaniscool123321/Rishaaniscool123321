@@ -51,7 +51,7 @@ I'm still learning and exploring, so this profile is where I track my progress, 
   <img src="https://img.shields.io/badge/Python-Learning-00ff88?style=for-the-badge&logo=python&logoColor=00ff88" />
   <img src="https://img.shields.io/badge/AI-Exploring-00ff88?style=for-the-badge&logo=perplexity&logoColor=00ff88" />
   <img src="https://img.shields.io/badge/Robotics-Learning-00ff88?style=for-the-badge&logo=raspberrypi&logoColor=00ff88" />
-  <img src="https://img.shields.io/badge/3D_Printing-Exploring-00ff88?style=for-the-badge&logo=printables&logoColor=00ff88" />
+  <img src="https://img.shields.io/badge/3D_Printing-Exploring-00ff88?style=for-the-badge&logo=BambuLab&logoColor=00ff88" />
   <img src="https://img.shields.io/badge/GitHub-Active-111111?style=for-the-badge&logo=github&logoColor=00ff88" />
   <img src="https://img.shields.io/badge/Linux-Learning-111111?style=for-the-badge&logo=linux&logoColor=00ff88" />
 </p>
