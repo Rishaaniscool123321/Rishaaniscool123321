@@ -74,9 +74,8 @@ I'm still learning and exploring, so this profile is where I track my progress, 
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Rishaaniscool123321&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishaaniscool123321&layout=compact&theme=chartreuse-dark&hide_border=true" />
+  <img height="160" src="https://streak-stats.demolab.com?user=Rishaaniscool123321&theme=chartreuse-dark&hide_border=true" />
 </p>
-
 ---
 
 <p align="center">
