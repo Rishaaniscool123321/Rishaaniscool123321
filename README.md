@@ -49,7 +49,7 @@ I'm still learning and exploring, so this profile is where I track my progress, 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Learning-00ff88?style=for-the-badge&logo=python&logoColor=00ff88" />
-  <img src="https://img.shields.io/badge/AI-Exploring-00ff88?style=for-the-badge&logo=openai&logoColor=00ff88" />
+  <img src="https://img.shields.io/badge/AI-Exploring-00ff88?style=for-the-badge&logo=perplexity&logoColor=00ff88" />
   <img src="https://img.shields.io/badge/Robotics-Learning-00ff88?style=for-the-badge&logo=raspberrypi&logoColor=00ff88" />
   <img src="https://img.shields.io/badge/3D_Printing-Exploring-00ff88?style=for-the-badge&logo=printables&logoColor=00ff88" />
   <img src="https://img.shields.io/badge/GitHub-Active-111111?style=for-the-badge&logo=github&logoColor=00ff88" />
@@ -64,7 +64,7 @@ I'm still learning and exploring, so this profile is where I track my progress, 
   <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=00ff88" />
   <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=00ff88" />
   <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=00ff88" />
-  <img src="https://img.shields.io/badge/AI-111111?style=flat-square&logo=openai&logoColor=00ff88" />
+  <img src="https://img.shields.io/badge/AI-111111?style=flat-square&logo=perplexity&logoColor=00ff88" />
   <img src="https://img.shields.io/badge/Robotics-111111?style=flat-square&logo=raspberrypi&logoColor=00ff88" />
   <img src="https://img.shields.io/badge/3D_Printing-111111?style=flat-square&logo=printables&logoColor=00ff88" />
 </p>
