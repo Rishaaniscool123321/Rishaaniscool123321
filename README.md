@@ -73,10 +73,12 @@ I'm still learning and exploring, so this profile is where I track my progress, 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Rishaaniscool123321&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-  <img height="160" src="https://streak-stats.demolab.com?user=Rishaaniscool123321&theme=chartreuse-dark&hide_border=true" />
+  <img height="180" src="https://streak-stats.demolab.com?user=Rishaaniscool123321&theme=chartreuse-dark&hide_border=true" />
 </p>
----
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rishaaniscool123321&label=Profile%20Views&color=00ff88&style=flat-square" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rishaaniscool123321&label=Profile%20Views&color=00ff88&style=flat-square" />
