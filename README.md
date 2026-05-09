@@ -66,7 +66,7 @@ I'm still learning and exploring, so this profile is where I track my progress, 
   <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=00ff88" />
   <img src="https://img.shields.io/badge/AI-111111?style=flat-square&logo=perplexity&logoColor=00ff88" />
   <img src="https://img.shields.io/badge/Robotics-111111?style=flat-square&logo=raspberrypi&logoColor=00ff88" />
-  <img src="https://img.shields.io/badge/3D_Printing-111111?style=flat-square&logo=printables&logoColor=00ff88" />
+  <img src="https://img.shields.io/badge/3D_Printing-111111?style=flat-square&logo=bambulab&logoColor=00ff88" />
   <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=00ff88" />
 </p>
 
