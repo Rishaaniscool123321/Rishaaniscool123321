@@ -72,6 +72,7 @@ I'm still learning and exploring, so this profile is where I track my progress, 
   <img src="https://img.shields.io/badge/3D_Printing-111111?style=flat-square&logo=bambulab&logoColor=00ff88" />
   <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=00ff88" />
   <img src="https://img.shields.io/badge/Firebase-111111?style=flat-square&logo=firebase&logoColor=00ff88" />
+  <img src="https://img.shields.io/badge/Netlify-111111?style=flat-square&logo=Netlify&logoColor=00ff88" />
 </p>
 
 ---
