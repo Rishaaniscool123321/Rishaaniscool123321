@@ -21,6 +21,11 @@ I'm a student tech explorer learning how code, AI, robotics, and 3D printing wor
 - 🌱 Git & GitHub
 - 💻 Building beginner projects while learning
 
+## Stuff I have a slight grasp of:
+
+- Python Programming 🐍
+- MS Office
+
 ## 🧠 Interests
 
 - Technology
